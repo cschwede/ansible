@@ -266,7 +266,7 @@ state:
     returned: success
     type: string
     sample: file
-status:
+status_code:
     description: the HTTP status code from the request
     returned: always
     type: int
